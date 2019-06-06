@@ -10,7 +10,7 @@ In order to set up the test app, you should first do:
 php artisan migrate
 ```
 
-...which will create the necessary db table. Don't forget to create the .env file!
+...which will create the necessary db table. Don't forget to create the .env file and do the composer install!
 
 Command for seeding the data is:
 
